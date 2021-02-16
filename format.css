@@ -1,0 +1,64 @@
+body {
+background:  #AFEEEE;
+}
+
+
+h1 {
+  font-family: 'Courier New', monospace;
+  color: white;
+  text-align: left;
+  font-size:45pt;
+}
+
+p {
+  font-family: 'Courier New', monospace;
+  font-size: 18pt;
+  text-align:left;
+
+}
+
+h2 {
+font-family: 'Courier New', monospace;
+font-size: 50pt;
+}
+
+p {
+  font-family: 'Courier New', monospace;
+  font-size: 25pt;
+  font-weight: bold;
+
+}
+
+p {
+  font-family: 'Courier New', monospace;
+  font-size: 25pt;
+
+}
+
+h3 {
+font-family: 'Courier New', monospace;
+font-weight: bold;
+font-size: 50pt;
+}
+
+h4{
+font-family: 'Courier New', monospace;
+font-weight: bold;
+font-size: 50pt;
+}
+
+p {
+font-family: 'Courier New', monospace;
+font-size: 15pt;
+}
+
+h5{
+font-family: 'Courier New', monospace;
+font-weight: bold;
+font-size: 50pt;
+}
+
+p {
+font-family: 'Courier New', monospace;
+font-size: 35pt;
+}
